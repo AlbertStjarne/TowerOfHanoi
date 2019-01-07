@@ -26,6 +26,7 @@ namespace _8_Tower_of_Hanoi
             {
                 Tower(n - 1, sourcePeg, sparePeg, destinationPeg);
                 Console.WriteLine(counter + " " + sourcePeg + "->" + destinationPeg);
+                counter++;
                 Tower(n - 1, sparePeg, destinationPeg, sourcePeg);
             }
         }
