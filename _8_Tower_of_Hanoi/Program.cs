@@ -17,7 +17,9 @@ namespace _8_Tower_of_Hanoi
             }
             else
             {
-                Tower(n-1)
+                Tower(n - 1, sourcePeg, sparePeg, destinationPeg);
+                Console.WriteLine(sourcePeg + "->" + destinationPeg);
+                Tower(n - 1, sparePeg, destinationPeg, sourcePeg);
             }
         }
 
