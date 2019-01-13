@@ -1,6 +1,0 @@
-/Users/albertstjarne/Udemy/Csharp_Logical_Puzzle_Games/_8_Tower_of_Hanoi/_8_Tower_of_Hanoi/bin/Debug/_8_Tower_of_Hanoi.exe
-/Users/albertstjarne/Udemy/Csharp_Logical_Puzzle_Games/_8_Tower_of_Hanoi/_8_Tower_of_Hanoi/bin/Debug/_8_Tower_of_Hanoi.pdb
-/Users/albertstjarne/Udemy/Csharp_Logical_Puzzle_Games/_8_Tower_of_Hanoi/_8_Tower_of_Hanoi/obj/x86/Debug/_8_Tower_of_Hanoi.csprojAssemblyReference.cache
-/Users/albertstjarne/Udemy/Csharp_Logical_Puzzle_Games/_8_Tower_of_Hanoi/_8_Tower_of_Hanoi/obj/x86/Debug/_8_Tower_of_Hanoi.csproj.CoreCompileInputs.cache
-/Users/albertstjarne/Udemy/Csharp_Logical_Puzzle_Games/_8_Tower_of_Hanoi/_8_Tower_of_Hanoi/obj/x86/Debug/_8_Tower_of_Hanoi.exe
-/Users/albertstjarne/Udemy/Csharp_Logical_Puzzle_Games/_8_Tower_of_Hanoi/_8_Tower_of_Hanoi/obj/x86/Debug/_8_Tower_of_Hanoi.pdb
